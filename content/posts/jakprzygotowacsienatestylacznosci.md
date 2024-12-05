@@ -57,4 +57,4 @@ Gdy już zdecydujemy się wyjść w teren, warto pomyśleć, co zabrać, żeby b
 
 Pogoda to rzecz, która najczęściej psuje plany na testowe wyjazdy. Pamiętaj, żeby dzień przed sprawdzić prognozę pogody (szczególnie jeśli wybierasz się na wyższą górę) i mieć zapasowe miejsce na wypadek niepogody.
 
-*Podobał Ci się ten wpis? Wyślij go komuś dalej! Jeśli masz pytania, napisz do mnie na **datamikolaj@protonmail.com***
+*Podobał Ci się ten wpis? Wyślij go komuś dalej! Jeśli masz pytania, napisz do mnie na **datamikolaj małpa protonmail.com***
