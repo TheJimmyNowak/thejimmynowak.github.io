@@ -6,8 +6,17 @@
     <description>Recent content on TheJimmyNowak</description>
     <generator>Hugo -- 0.139.3</generator>
     <language></language>
-    <lastBuildDate>Thu, 05 Dec 2024 18:17:07 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 20:33:00 +0100</lastBuildDate>
     <atom:link href="https://thejimmynowak.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jak się przygotować na testy łączności awaryjnej?</title>
+      <link>https://thejimmynowak.github.io/posts/jakprzygotowacsienatestylacznosci/</link>
+      <pubDate>Thu, 05 Dec 2024 20:33:00 +0100</pubDate>
+      <guid>https://thejimmynowak.github.io/posts/jakprzygotowacsienatestylacznosci/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Testy łączności awaryjnej&lt;/strong&gt; podbijają Polskę, zachęcając coraz większą rzeszę ludzi do prowadzenia łączności. Odbywają się one każdego 13-tego dnia miesiąca oraz w ostatnie soboty miesiąca. Ale jak się do nich przygotować? 🤔&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Zdjęcie z testów&#34; loading=&#34;lazy&#34; src=&#34;https://thejimmynowak.github.io/images/testy.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Radiem zajmuję się od ponad dwóch lat. W tym czasie dowiedziałem się wiele na ten temat, ale tak naprawdę moja przygoda zaczęła się po pójściu na pierwsze testy (około rok temu)! Chcę podzielić się z Tobą super przydatną dawką informacji, które chciałbym znać, idąc na testy po raz pierwszy.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Kontakt</title>
       <link>https://thejimmynowak.github.io/kontakt/</link>
@@ -18,15 +27,6 @@
 &lt;p&gt;Nasłuchuj znaku &lt;strong&gt;SP8UWU&lt;/strong&gt; na pasmach krótkofalarskich ;)&lt;/p&gt;
 &lt;h2 id=&#34;mailem&#34;&gt;Mailem&lt;/h2&gt;
 &lt;p&gt;Moim preferowanym sposobem kontaktu jest email: &lt;strong&gt;&lt;a href=&#34;mailto:datamikolaj@protonmail.com&#34;&gt;datamikolaj@protonmail.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://thejimmynowak.github.io/posts/jakprzygotowacsienatestylacznosci/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://thejimmynowak.github.io/posts/jakprzygotowacsienatestylacznosci/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Testy łączności awaryjnej&lt;/strong&gt; podbijają Polskę, zachęcając coraz większą rzeszę ludzi do prowadzenia łączności. Odbywają się one każdego 13-tego dnia miesiąca oraz w ostatnie soboty miesiąca. Ale jak się do nich przygotować? 🤔&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Zdjęcie z testów&#34; loading=&#34;lazy&#34; src=&#34;https://thejimmynowak.github.io/images/testy.jpeg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Radiem zajmuję się od ponad dwóch lat. W tym czasie dowiedziałem się wiele na ten temat, ale tak naprawdę moja przygoda zaczęła się po pójściu na pierwsze testy (około rok temu)! Chcę podzielić się z Tobą super przydatną dawką informacji, które chciałbym znać, idąc na testy po raz pierwszy.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,10 +1,15 @@
+---
+title: Jak się przygotować na testy łączności awaryjnej?
+draft: false
+date: 2024-12-05T20:33:00+01:00
+---
 **Testy łączności awaryjnej** podbijają Polskę, zachęcając coraz większą rzeszę ludzi do prowadzenia łączności. Odbywają się one każdego 13-tego dnia miesiąca oraz w ostatnie soboty miesiąca. Ale jak się do nich przygotować? 🤔
 
 ![Zdjęcie z testów](/images/testy.jpeg)
 
 Radiem zajmuję się od ponad dwóch lat. W tym czasie dowiedziałem się wiele na ten temat, ale tak naprawdę moja przygoda zaczęła się po pójściu na pierwsze testy (około rok temu)! Chcę podzielić się z Tobą super przydatną dawką informacji, które chciałbym znać, idąc na testy po raz pierwszy.
 
-## Miejsce, Szpej i Pogoda ☁️
+## Miejsce, Ekwipunek i Pogoda ☁️
 
 W tym wpisie nie chcę za bardzo rozpisywać się o radiach. Powiem tylko, że każde radio **PMR** i **CB** jest w porządku. 
 
