@@ -1,5 +1,5 @@
 ---
-title: "Jak przygotować się na testy łączności"
+title: "Jak przygotować się na testy łączności?"
 date: 2024-12-05T15:01:55+01:00
 draft: false
 ---
