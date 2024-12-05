@@ -1,47 +1,55 @@
----
-title: "Jak przygotować się na testy łączności?"
-date: 2024-12-05T15:01:55+01:00
-draft: false
----
+**Testy łączności awaryjnej** podbijają Polskę, zachęcając coraz większą rzeszę ludzi do prowadzenia łączności. Odbywają się one każdego 13-tego dnia miesiąca oraz w ostatnie soboty miesiąca. Ale jak się do nich przygotować? 🤔
 
-Przez ostatnie kilka lat "Testy łączności awaryjnej" podbijają polskę zachęcając coraz większą rzeszę pasjonatów radia do prowadzenia łączności każdego 13-tego dnia miesiąca i w ostatnie soboty miesiąca. Ale jak się przygotować na test?
+![Zdjęcie z testów](/images/testy.jpeg)
 
-W testy bawię się od około pół roku. To dzięki nim zrobiłem pozwolenie radiowe i zaangażowałem się tak naprawdę. Przez te kilka miesięcy dowiedziałem się wielu ważnych rzeczy!
+Radiem zajmuję się od ponad dwóch lat. W tym czasie dowiedziałem się wiele na ten temat, ale tak naprawdę moja przygoda zaczęła się po pójściu na pierwsze testy (około rok temu)! Chcę podzielić się z Tobą super przydatną dawką informacji, które chciałbym znać, idąc na testy po raz pierwszy.
 
-# Szpej, pogoda i miejscówka
-W tym wpisie nie chcę pisać za bardzo o radiach. Dlatego ograniczę się do powiedzenia, że każde radio **PMR** i **CB**, jest dobre.
+## Miejsce, Szpej i Pogoda ☁️
 
-> [!Disclaimer]
-> Każde radio mogące legalnie nadawać na tych pasmach, tzn. dla PMR radia o mocy maksymalnie 0.5W i bez wymienialnej anteny ;)
+W tym wpisie nie chcę za bardzo rozpisywać się o radiach. Powiem tylko, że każde radio **PMR** i **CB** jest w porządku. 
 
-Czemu nie chcę mówić za dużo o radiach? Bo tak naprawdę żeby efektywnie nadawać w testach najważniejsza jest miejscówka. Fala na paśmie 446MHz (PMR) to fala przyziemna i każda przeszkoda stanowi problem dla takiej fali. Zatem dobre miejsce do testów to miejsce relatywnie wysoko i bez przeszkód dookoła.
+> **WAŻNA UWAGA!**
+> Każde radio, które **legalnie** nadaje na tych pasmach, jest dobre. Dla PMR oznacza to radia o mocy maksymalnie 0,5W i bez wymiennej anteny ;) Wszelkie baofengi, quashengi i tym podobne nie powinny być używane w testach!
 
-Oczywiście wiadomo fajnie jest móc nadawać ze swojego domu, ale zachęcam do wyjścia na powietrze i zdobycia przy okazji lokalnej górki.
+Dlaczego nie chcę mówić za dużo o radiach? Bo żeby efektywnie nadawać w testach, najważniejsza jest lokalizacja. Fala na paśmie 446MHz (PMR) to fala przyziemna, więc każda przeszkoda może stanowić problem. Dobre miejsce do testów to takie, które jest relatywnie wysoko i bez przeszkód wokół.
 
-Jak już zdecydujemy się wyjść w teren powinniśmy pomyśleć co ze sobą zabrać, żeby było nam jak najlepiej. Moja lista to:
-- Ciepłe ubranie
-- Latarka
-- Karimata
-- Długopis i Logbook
+Oczywiście, fajnie jest nadawać z własnego domu, ale zachęcam do wyjścia na świeże powietrze i zdobycia lokalnej górki! 🏞️ 
 
-# Jak mówić do radia?
-Ale żeś powiedział! Radio to radio naciskam i mówię, proste!
+### Jak Szukać Takich Miejsc?
 
-No niestety nie do końca. Ważne jest "gdzie" mówimy tzn. na jakim kanale/częstotliwości. Utarło się że w testach (i sytuacjach kryzysowych) używa się kanału 2 PMR oraz 13 i 14 CB. To tam będziesz miał największe szanse na trafienie kogoś chętnego do nawiązania z tobą kontaktu! 
+Zacznij od przeszukania map. Szukaj punktów widokowych, szczytów, kopców. W terenach zurbanizowanych poszukaj otwartych dla wszystkich dachów, np. parkingów wielopiętrowych.
 
-W trakcie pracy na pasmach musisz pamiętać, że w twoją rozmowę mogą wkraść się trzaski, piski i inne nie przyjemne zakłócenia. Twoja wiadomość może nie dojść cała do twojego korespondenta. Dlatego upewnij się, że mówisz wyraźnie i nie śpiesz się. 
+**Podpowiedź** 💡
+Sprawdź stronę [HeyWhatsThat](https://www.heywhatsthat.com/). Jeśli masz dużo czasu, spróbuj napisać zapytanie do [Overpass Turbo](https://overpass-turbo.eu/) (pamiętaj, żeby przed wyjazdem sprawdzić te miejsca na Street View). Oto moje zapytanie:
+```
+[out:json][timeout:25];
+// Użycie bbox
+(
+  node["natural"="peak"](bbox);
+  node["tourism"="viewpoint"](bbox);
+);
 
-# Prosty schemat łączności
-Żeby usprawnić nawiązywanie kontaktu wymyślono pewien utraty sposób przeprowadzania łączności:
-- Wywołanie ogólne w testach łączności awaryjnej. Wywołanie ogólne w testach łączności awaryjnej. Tutaj operator *Twoje imię/bądź znak*, *Twoje imię/bądź znak*. Zaprasza!
-- Operator *Twoje imię/bądź znak* tutaj operator Bartek
-- Operator Bartek operator *twoje imię/znak* odbieram ciebie z raportem 5 moja lokalizacja to xxx. Oddaje mikrofon do ciebie
-- Operator *Twoje imię/bądź znak* tutaj operator Bartek raport dla ciebie xxx moja lokalizacja to xxx. Dziękuję za łączność
+// Pobranie wyników
+out body;
+>;
+out skel qt;
+```
 
-Rozbijmy to na czynniki pierwsze! 
-**Wywołanie ogólne** - to po prostu oznacza "ktokolwiek mnie słyszy proszę o odpowiedź"
-**Znak** - znaki w testach są przydzielane przez *planawaryjny*. Nie mylić ze znakiem krótkofalarskim! Uzyskanie znaku w testach nie upoważnia do nadawania w pasmach amatorskich
-**Operator twoje imię/znak operator bartek** - odpowiedz mi moja stacja to bartek. Chcę porozmawiać. Każde nowe wejście powinno się zaczynać od wywołania stacji do której mówię i tego kto mówi!
-**Raport** - jest to określenie w skali od 1 do 5 jak kogoś się dobrze słyszy (na ucho). Gdzie 1 oznacza "nie słyszę nic", a 5 "odbieram bez zakłóceń"
+![Mapa z overpass turbo](/images/overpassturbo.png)
+*Potencjalne miejscówki wygenerowane przez Overpass Turbo*
 
+## Co Ze Sobą Zabrać? 🎒
 
+Gdy już zdecydujemy się wyjść w teren, warto pomyśleć, co zabrać, żeby było nam jak najlepiej. Oto moja lista:
+- **Radio** - Bez niego nie zrobisz łączności!
+- **Długopis i Logbook** - Logbook to zeszyt, w którym zapisujesz swoje łączności. Nie jest to wymagane, ale fajnie jest sprawdzić, z kim się rozmawiało.
+- **Ciepłe ubranie** - Pamiętaj, że spędzisz dużo czasu w jednym miejscu. Nawet latem może zrobić się zimno.
+- **Latarka** - To była moja pomyłka na pierwszych testach. Kilka minut po 20:00 zrobiło się tak ciemno, że musiałem wracać wcześniej do domu.
+- **Karimata** - Zawsze biorę ze sobą karimatę. Często na miejscu nie znajdziesz ławki.
+- **Środek transportu** - Zastanów się, jak dojedziesz na miejsce. Ja zwykle korzystam z roweru lub komunikacji miejskiej, ale Ty możesz mieć samochód.
+
+## Pogoda 🌩️🌞
+
+Pogoda to rzecz, która najczęściej psuje plany na testowe wyjazdy. Pamiętaj, żeby dzień przed sprawdzić prognozę pogody (szczególnie jeśli wybierasz się na wyższą górę) i mieć zapasowe miejsce na wypadek niepogody.
+
+*Podobał Ci się ten wpis? Wyślij go komuś dalej! Jeśli masz pytania, napisz do mnie na **datamikolaj@protonmail.com***
