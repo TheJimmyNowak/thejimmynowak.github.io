@@ -1,4 +1,7 @@
-baseURL: http://example.org/
-languageCode: pl-Pl
-title: My New Hugo Site
+baseURL: https://thejimmynowak.github.io/
+languageCode: pl-pl
+params:
+ contact:
+  email: datamikolaj@protonmail.com
+title: TheJimmyNowak
 theme: ["PaperMod"]

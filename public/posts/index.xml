@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on TheJimmyNowak</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on TheJimmyNowak</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language></language>
+    <lastBuildDate>Thu, 05 Dec 2024 15:01:55 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jak przygotować się na testy łączności</title>
+      <link>http://localhost:1313/posts/jakprzygotowacsienatestylacznosci/</link>
+      <pubDate>Thu, 05 Dec 2024 15:01:55 +0100</pubDate>
+      <guid>http://localhost:1313/posts/jakprzygotowacsienatestylacznosci/</guid>
+      <description>&lt;p&gt;Przez ostatnie kilka lat &amp;ldquo;Testy łączności awaryjnej&amp;rdquo; podbijają polskę zachęcając coraz większą rzeszę pasjonatów radia do prowadzenia łączności każdego 13-tego dnia miesiąca i w ostatnie soboty miesiąca. Ale jak się przygotować na test?&lt;/p&gt;
+&lt;p&gt;W testy bawię się od około pół roku. To dzięki nim zrobiłem pozwolenie radiowe i zaangażowałem się tak naprawdę. Przez te kilka miesięcy dowiedziałem się wielu ważnych rzeczy!&lt;/p&gt;
+&lt;h1 id=&#34;szpej-pogoda-i-miejscówka&#34;&gt;Szpej, pogoda i miejscówka&lt;/h1&gt;
+&lt;p&gt;W tym wpisie nie chcę pisać za bardzo o radiach. Dlatego ograniczę się do powiedzenia, że każde radio &lt;strong&gt;PMR&lt;/strong&gt; i &lt;strong&gt;CB&lt;/strong&gt;, jest dobre.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
